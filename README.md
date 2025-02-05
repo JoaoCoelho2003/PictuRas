@@ -18,7 +18,7 @@
 ---
 
 ## Project Overview
-Picturas is a scalable web application designed to manage and showcase images effectively. It includes a frontend for user interaction, an API for backend services, and integrated email management with Mailhog. The project is deployed using Kubernetes, leveraging tools like Minikube and Helm for orchestration and package management.
+Picturas is a scalable web application designed to manage, edit, and showcase images effectively. It includes a frontend for user interaction, an API for backend services, and integrated email management with Mailhog. Users can apply various tools and filters to edit images directly within the application. The project is deployed using Kubernetes, leveraging tools like Minikube and Helm for orchestration and package management.
 
 ## Features
 - User-friendly web interface for managing images
