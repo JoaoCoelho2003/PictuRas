@@ -1,5 +1,7 @@
 # Picturas Project
 
+### **Grade: 19.75/20 ⭐**
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
